@@ -7,7 +7,7 @@ Npm: 9.4.1
 
 ## Available Scripts
 
-## After downloading project run:
+After downloading project run:
 
 ### `npm install`
 
