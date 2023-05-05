@@ -2,7 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Node: v16.19.1
+Npm: 9.4.1
+
 ## Available Scripts
+
+## After downloading project run:
+
+### `npm install`
 
 In the project directory, you can run:
 
